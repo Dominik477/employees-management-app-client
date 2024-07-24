@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(243, 243, 243);
+    margin: 0;
+  padding: 0;
+    
+  }
+
+  .no-margin-top {
+    margin-top: 0 !important;
+  }
